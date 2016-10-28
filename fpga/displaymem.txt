@@ -1,0 +1,4 @@
+displaymem
+- distributed memory
+- 256 * 24bits
+- registered and unregistered output
